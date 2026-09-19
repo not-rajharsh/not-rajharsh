@@ -18,7 +18,8 @@
 
 <!-- SOCIALS -->
 
-<a href="https://www.linkedin.com/in/harsh-raj-294364326/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:notrajharsh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/harsh-raj-294364326/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:notrajharsh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://leetcode.com/u/raj_harsh04"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+
 
 <img src="https://komarev.com/ghpvc/?username=not-rajharsh&style=flat&color=39d353&label=profile+views" alt="profile views">
 
@@ -102,6 +103,13 @@ Hi, I'm **Harsh Raj**, a Computer Science student who enjoys building practical 
 <br><br>
 
 <!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/not-rajharsh/not-rajharsh/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/not-rajharsh/not-rajharsh/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/not-rajharsh/not-rajharsh/output/snake.svg" width="100%" alt="snake eating the contribution graph">
+</picture>
+
+</div>
 
 ---
 
