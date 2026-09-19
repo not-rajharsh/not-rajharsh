@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "repo":"PhishGuard",
+      "description":"Phishing & Scam Site Detector (Chrome Extension)"
+    },
+    {
+      "repo": "BlockyTerrain",
+      "description": "A multiplayer LAN game built for local network gameplay."
+    },
+    {
+      "repo": "Daily-Pulse",
+      "description": "A daily 90-minute journal for tracking focused work and progress."
+    },
+    {
+      "repo": "ecosystem-simulator",
+      "description": "A simulation exploring interactions between organisms in an ecosystem."
+    },
+    {
+      "repo": "Focus-Guard",
+      "description": "Helps you stay focused during work sessions (Extension)"
+    },
+    {
+      "repo":"campus-lost-found",
+      "description":"The campus board for misplaced things and honest people."
+    }
+  ]
+}

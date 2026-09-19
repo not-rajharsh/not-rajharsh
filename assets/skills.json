@@ -1,0 +1,12 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    { "label": "Python", "value": 75 },
+    { "label": "C++", "value": 40 },
+    { "label": "Git / GitHub", "value": 45 },
+    { "label": "Linux", "value": 70 },
+    { "label": "Cybersecurity", "value": 25 },
+    { "label": "Cloud", "value": 30 },
+    { "label": "Problem Solving", "value": 80 }
+  ]
+}
