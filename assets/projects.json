@@ -1,28 +1,34 @@
 {
   "projects": [
     {
-      "repo":"PhishGuard",
-      "description":"Phishing & Scam Site Detector (Chrome Extension)"
+      "repo": "SessionGuard",
+      "description": "A continuous authentication system that detects session hijacking and cookie theft for web apps. Meta AI Developers Hackathon 2026.",
+      "language": "JavaScript"
     },
     {
-      "repo": "BlockyTerrain",
-      "description": "A multiplayer LAN game built for local network gameplay."
+      "repo": "blockchain",
+      "description": "Im trying to build a Blockchain system in python. Sole purpose is to learn Blockchain",
+      "language": "Python"
     },
     {
-      "repo": "Daily-Pulse",
-      "description": "A daily 90-minute journal for tracking focused work and progress."
+      "repo": "github-profile-inspector",
+      "description": "A Python CLI tool that fetches detailed user profile information, followers, following, starred repositories, and public repos using the GitHub REST API. [FULLY BUILD BY ME :)]",
+      "language": "Python"
     },
     {
-      "repo": "ecosystem-simulator",
-      "description": "A simulation exploring interactions between organisms in an ecosystem."
+      "repo": "web-osint",
+      "description": "A local, CLI-driven Web Scraping & OSINT Data Extraction Utility in Python.",
+      "language": "Python"
     },
     {
-      "repo": "Focus-Guard",
-      "description": "Helps you stay focused during work sessions (Extension)"
+      "repo": "SpikeWatcher",
+      "description": "A real-time system monitoring tool for your machine that watches CPU, memory, disk I/O, and network activity, and directly correlates spikes with whatever specific application was running at that exact moment",
+      "language": "Python"
     },
     {
-      "repo":"campus-lost-found",
-      "description":"The campus board for misplaced things and honest people."
+      "repo": "lan-controller",
+      "description": "Turn your phone into a wireless game controller for your PC.",
+      "language": "JavaScript"
     }
   ]
 }
